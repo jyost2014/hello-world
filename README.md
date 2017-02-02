@@ -1,2 +1,4 @@
 # hello-world
-first GitHub
+Hello
+
+This is my first attempt at a readme file.
